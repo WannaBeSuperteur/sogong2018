@@ -5,6 +5,11 @@ import java.io.FileWriter;
 
 import javax.swing.JOptionPane;
 
+/*
+ * 목적: 회원정보 만들기, 회원정보 수정 창에서의 이벤트 처리
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class memberInfoCheck {
 	
 	// 중복된 ID인지 검사

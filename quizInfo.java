@@ -8,6 +8,11 @@ import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JFrame;
 
+/*
+ * 목적: 퀴즈를 생성하거나 수정하는 창을 표시
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class quizInfo extends JFrame {
 	JButton logoutBtn = new JButton("로그아웃");
 	JButton OK = new JButton("확인");

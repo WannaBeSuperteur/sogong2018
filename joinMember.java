@@ -3,6 +3,11 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
 
+/*
+ * 목적: 회원가입
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class joinMember extends JFrame implements ActionListener {
 	memberInfo mI = null;
 	

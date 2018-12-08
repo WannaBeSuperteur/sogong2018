@@ -3,6 +3,11 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.io.*;
 
+/*
+ * 목적: 회원가입을 하거나 회원정보를 수정하는 창을 표시
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class memberInfo extends JFrame {
 	JButton idCheck = new JButton("아이디 중복확인");
 	JButton OK = new JButton("확인");

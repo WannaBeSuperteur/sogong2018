@@ -5,6 +5,11 @@ import java.io.FileReader;
 import java.io.File;
 import javax.swing.*;
 
+/*
+ * 목적: 퀴즈 만들기
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/08
+ */
 public class makeQuiz extends JFrame implements ActionListener {
 	quizInfo qI = null;
 	String userId = "";

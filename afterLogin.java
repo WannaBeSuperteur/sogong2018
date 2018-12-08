@@ -2,6 +2,11 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+/*
+ * 목적: 로그인 후에 나타나는 화면을 표시
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 // 로그인 후 화면
 public class afterLogin extends JFrame implements ActionListener {
 	JButton makeQuiz = new JButton("퀴즈 만들기");

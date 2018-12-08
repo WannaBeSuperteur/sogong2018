@@ -2,6 +2,11 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+/*
+ * 목적: 퀴즈 목록 창 표시
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/08
+ */
 public class quizList extends JFrame implements ActionListener {
 	Label nicknameLabel = new Label("");
 	JButton logoutBtn = new JButton("로그아웃");

@@ -5,6 +5,11 @@ import java.io.FileWriter;
 
 import javax.swing.JOptionPane;
 
+/*
+ * 목적: 퀴즈 만들기, 퀴즈 수정 창에서의 창에서의 이벤트 처리
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/08
+ */
 public class quizInfoApply {
 	// 퀴즈 생성 또는 수정
 	public boolean apply(quizInfo qI, boolean modify, String userId) {

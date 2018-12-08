@@ -1,6 +1,11 @@
 import java.io.*;
 import javax.swing.JOptionPane;
 
+/*
+ * 목적: DB에 등록된 퀴즈를 삭제
+ * 최초 작성일: 2018/12/03
+ * 최종 수정일: 2018/12/03
+ */
 public class deleteQuiz {
 	public deleteQuiz(String title) {
 		try {

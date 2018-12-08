@@ -6,6 +6,11 @@ import java.io.File;
 
 import javax.swing.*;
 
+/*
+ * 목적: 퀴즈 시스템의 메인 화면 표시
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class home extends JFrame implements ActionListener {
 	JButton loginBtn = new JButton("로그인");
 	JButton findInfoBtn = new JButton("ID/PW 찾기");

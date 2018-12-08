@@ -1,5 +1,10 @@
 import javax.swing.JOptionPane;
 
+/*
+ * 목적: 퀴즈 객체에 대한 속성을 기술
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/08
+ */
 public class quiz {
 	private String title;
 	

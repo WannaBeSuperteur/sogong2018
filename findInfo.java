@@ -2,6 +2,11 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+/*
+ * 목적: 회원의 ID, 비밀번호 찾기
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class findInfo extends JFrame implements ActionListener {
 	JButton OK = new JButton("확인");
 	JButton cancel = new JButton("취소");

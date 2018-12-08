@@ -1,6 +1,11 @@
 import java.awt.event.*;
 import javax.swing.*;
 
+/*
+ * 목적: 회원정보 수정 창 표시 및 이벤트 처리
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class modifyMember extends JFrame implements ActionListener {
 	memberInfo mI = null;
 	

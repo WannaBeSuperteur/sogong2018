@@ -2,6 +2,11 @@ import java.io.*;
 
 import javax.swing.JOptionPane;
 
+/*
+ * 목적: 회원 객체에 대한 속성을 기술
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class member {
 	private String name;
 	private String id;

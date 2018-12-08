@@ -3,6 +3,11 @@ import java.awt.event.*;
 import java.io.*;
 import javax.swing.*;
 
+/*
+ * 목적: 퀴즈 풀기 창 표시 및 이벤트 처리
+ * 최초 작성일: 2018/12/01
+ * 최종 수정일: 2018/12/03
+ */
 public class solveQuiz extends JFrame implements ActionListener {
 	JButton OK = new JButton("확인");
 	JButton cancel = new JButton("취소");
